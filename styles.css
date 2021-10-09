@@ -1,0 +1,52 @@
+body{
+    
+}
+nav {
+    position: relative;
+    margin: 0 auto;
+    max-width: 960px;
+    height: 60px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    font-size: medium;
+}
+
+.navbar-brand{
+    font-size: large;
+    text-decoration: none;
+}
+
+.nav-links ul li{
+    display: inline;
+    margin: 16px;
+}
+section{
+    padding: 16px 16px 0;
+    max-width: 960px;
+    margin-top: 1em;
+    margin-bottom: 1em;
+    margin: 0 auto 64px;
+}
+div{
+    font-size: larger;
+    font-family:sans-serif;
+}
+.recipe-block {
+    max-width: 960px;
+}
+.recipe-title{
+    text-align: center;
+    
+}
+
+.ingredients{
+
+}
+.recipe-steps{
+   
+}
+.recipe-img {
+    max-width: 100%;
+    object-fit: none;
+}
